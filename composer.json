@@ -1,20 +1,20 @@
 {
-    "name": "laravel-enso/versioning",
+    "name": "genealogiawebsite/versioning",
     "description": "Prevents update conflicts using the optimistic lock pattern in Laravel",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "versioning",
         "trait",
         "optimistic-lock"
     ],
-    "homepage": "https://github.com/laravel-enso/versioning",
+    "homepage": "https://github.com/genealogiawebsite/versioning",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
